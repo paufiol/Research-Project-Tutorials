@@ -1,5 +1,5 @@
 # Research Tutorial Design
-===
+---
 
 ## Problem Description
 
@@ -42,3 +42,48 @@ Another common mistake is over explaining. Players don't need to know minor deta
 
 Again, this is about equilibrium. If we look at Dark Souls III, for example, has a side room in the tutorial area with a strong enemy which is really hard to take at early levels. However, hints exist on how to kill it, and for more experienced players this may suppose a challenge. If succesfull you will get an upgrade item, which is a good reward, but totally prescindible.
 
+
+### How to convey information
+---
+![Spatial and Diegetic](https://raw.githubusercontent.com/paufiol/Research-Tutorial-Design/master/docs/images/info_chart_multiexample.PNG)
+
+**Spatial:** Exists in the same space that the game does.
+**Diegetic:** Is part of the world / narrative.
+
+Players dislike being taught, so the best way to give it is making him believe he created it. To do so, one can set hints as elements of the game (diegetic, spatial elements) that lead the player to a deduction. Achieving this will result in a more fluid experience to the gameplay, since it was never interrupted.
+Sometimes text is requiered, _(for controls often times)_, but in order to keep the pace of the game agile you want to avoid pop ups. A solution can be to use spatial text; that is, text that appears within the world, so the game is not interrupted.
+
+You can disguise the tutorial by incorporating it into the plot. Common examples are masters/mentors, or boot camps for military games.
+Another disguise is turning them into puzzles, where the mechanic is key to solving it. Having the user think about the mechanic this way will help them interiorise it. Tipically, this second approach is used in strategy games. 
+
+Always give context within the game. If its non diegetic and non spatial then has very little connection to your game. Avoid them whenever possible. 
+
+### Follow standards & common sense
+---
+
+This is an obvious one, but sometimes is hard to remember. 
+
+All users will have previous experiences that we can take advantage of. For example, we don't need to explain the user how to click, because we assume he has launched the game and thus knows hot to use a mouse. In the same way, if standards are followed _(WASD for moving for example)_ you might not need to explain it, depending on the expected user profile and how literate is it.
+
+Following common sense is there to prevent us from overexplaning implicit concepts _(lava is hot)_ and respecting the player.
+
+### Too long; Didn't Read
+---
+
+- Keep in mind lore, mechanics and controls at all times
+- Give players a sense of safety and an exciting goal
+- Incorporate as much tutorial into the world as you can
+- Avoid stopping the player for too long (hand holding)
+- Allow room for self-discovery; (no time pressure, no overexplaining, or locking the player)
+- Follow common sense
+- Follow standards
+- Break any of these rules after understanding them  
+
+
+### Bibliography
+--- 
+
+- [2016 GDC Europe talk, Nicolae Berbece](https://www.youtube.com/watch?v=VM1pV_6IE34)
+- [GDC 2014, Asher Vollmer](https://www.youtube.com/watch?v=Uf7xLHUpKHE)
+- [Half-Life 2's Invisible Tutorial | Teaching Players](https://www.youtube.com/watch?v=MMggqenxuZc)
+- [Gamasutra; Video Game Tutorials: How Do They Teach?, Nathan Hedges](https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorials_How_Do_They_Teach.php)
