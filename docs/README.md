@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Research Tutorial Design
+---
 
-You can use the [editor on GitHub](https://github.com/paufiol/Research-Project-Tutorials/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
+## Problem Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tutorials are often the first contact a player has with a game, especially gameplay. This first impressions are key in order to engage the player from the start and theach them the necessary content to play. This segments are tipically short but very information dense, making mistakes common. In addition, failing to give a solid tutorial will harm the player experience of the whole game.
 
-### Markdown
+As with many other aspects of game design, this is no exact science. The approaches provided here are not perfect. However, by better understanding the concepts and play and mistakes and successes for the past we can learn to provide a smoother experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Proposed approach
 
-# Header 1
-## Header 2
-### Header 3
+### Goals
 
-- Bulleted
-- List
+A tutorial should intriduce the player to the plot or context, the mechanics and the controls. Keeping in mind these at all times will help have a compact tutorial, where everything is made to serve more than one purpose.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paufiol/Research-Project-Tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Context:** Allow the player to view the world he is set in, its basic rules (i.e. gravity), the character, and if necessary the plot.
+ Often cinematics or scripted sequences can be placed before the tutorial to address this, at least partly.
