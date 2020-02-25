@@ -36,6 +36,12 @@ In Zelda: Breath of the Wild, you are left in an open world map very early. Howe
 
 Another common mistake is over explaining. Players don't need to know minor details or interactions that you as a developer might have insight in. When a mechanic is introduced show the bases first, and possibly avoid telling small details alltogheter. More experienced players will learn those by themselves given them _a sense of pride and accomplishment_.
 
+Example on good vs bad cases:
+
+[![Half Life 2](https://i.pinimg.com/originals/d6/06/e3/d606e3ba47fdda6f76d785f754013c8f.jpg)](https://www.youtube.com/watch?v=kz71F34UyIM)
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/275096611232409534/67A38DCB41269B357435303856617E8FD6CCEC85/?imw=1024&imh=578&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://imgur.com/gallery/hlxvF/comment/292991808)
+
 ---
 
 - **Comfort - Excite:** The user should feel safe, or comfortable. There are essentially too ways of achieving this: you either provide a safe, deathless environment or punish very little for losing. That being said, without any challenge or goal the player will feel soon disengaged. So on the other hand we have to provide exciment. A very effective way is to promise better experiences after the tutorial is completed _(If you learn to use this sword, I'll give it to you.)_. You can also provide content that is not yet necessary without explanation, so if players figure it out on their own they will feel good and have a small advantage. 
