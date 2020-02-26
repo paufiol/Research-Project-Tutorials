@@ -40,13 +40,16 @@ Example on good vs bad cases:
 
 [![Half Life 2](https://i.pinimg.com/originals/d6/06/e3/d606e3ba47fdda6f76d785f754013c8f.jpg)](https://www.youtube.com/watch?v=kz71F34UyIM)
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/275096611232409534/67A38DCB41269B357435303856617E8FD6CCEC85/?imw=1024&imh=578&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://imgur.com/gallery/hlxvF/comment/292991808)
+[![Dead Space](https://steamuserimages-a.akamaihd.net/ugc/275096611232409534/67A38DCB41269B357435303856617E8FD6CCEC85/?imw=1024&imh=578&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://imgur.com/gallery/hlxvF/comment/292991808)
 
 ---
 
 - **Comfort - Excite:** The user should feel safe, or comfortable. There are essentially too ways of achieving this: you either provide a safe, deathless environment or punish very little for losing. That being said, without any challenge or goal the player will feel soon disengaged. So on the other hand we have to provide exciment. A very effective way is to promise better experiences after the tutorial is completed _(If you learn to use this sword, I'll give it to you.)_. You can also provide content that is not yet necessary without explanation, so if players figure it out on their own they will feel good and have a small advantage. 
 
 Again, this is about equilibrium. If we look at Dark Souls III, for example, has a side room in the tutorial area with a strong enemy which is really hard to take at early levels. However, hints exist on how to kill it, and for more experienced players this may suppose a challenge. If succesfull you will get an upgrade item, which is a good reward, but totally prescindible.
+
+A good Equilibrium example: DOOM (2016)
+[![DOOM (2016)](https://i1.wp.com/twincitiesgeek.com/wp-content/uploads/2016/05/DOOM-Beginning-Kill.gif?fit=500%2C282)](https://youtu.be/c8uBO8grqd8?t=15)
 
 
 ### How to convey information
@@ -73,6 +76,9 @@ All users will have previous experiences that we can take advantage of. For exam
 
 Following common sense is there to prevent us from overexplaning implicit concepts _(lava is hot)_ and respecting the player.
 
+![Mario dies in lava](https://24.media.tumblr.com/e8465cc29bc5552f10156b83715a40a9/tumblr_mtn3uhJGKA1sjqlxio1_500.gif)
+
+
 ### Too long; Didn't Read
 ---
 
@@ -91,5 +97,5 @@ Following common sense is there to prevent us from overexplaning implicit concep
 
 - [2016 GDC Europe talk, Nicolae Berbece](https://www.youtube.com/watch?v=VM1pV_6IE34)
 - [GDC 2014, Asher Vollmer](https://www.youtube.com/watch?v=Uf7xLHUpKHE)
-- [Half-Life 2's Invisible Tutorial | Teaching Players](https://www.youtube.com/watch?v=MMggqenxuZc)
+- [Half-Life 2's Invisible Tutorial | Teaching Players, Game Maker's Toolkit](https://www.youtube.com/watch?v=MMggqenxuZc)
 - [Gamasutra; Video Game Tutorials: How Do They Teach?, Nathan Hedges](https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorials_How_Do_They_Teach.php)
