@@ -46,7 +46,7 @@ Example on good vs bad cases:
 
 - **Comfort - Excite:** The user should feel safe, or comfortable. There are essentially too ways of achieving this: you either provide a safe, deathless environment or punish very little for losing. That being said, without any challenge or goal the player will feel soon disengaged. So on the other hand we have to provide exciment. A very effective way is to promise better experiences after the tutorial is completed _(If you learn to use this sword, I'll give it to you.)_. You can also provide content that is not yet necessary without explanation, so if players figure it out on their own they will feel good and have a small advantage. 
 
-Again, this is about equilibrium. If we look at Dark Souls III, for example, has a side room in the tutorial area with a strong enemy which is really hard to take at early levels. However, hints exist on how to kill it, and for more experienced players this may suppose a challenge. If succesfull you will get an upgrade item, which is a good reward, but totally prescindible.
+Again, this is about equilibrium. If we look at Dark Souls III, for example, has a side room in the tutorial area with a strong enemy which is really hard to take at early levels. However, hints exist on how to kill it, and for more experienced players this may suppose a challenge. If succesfull you will get an upgrade item, which is a good reward, but totally prescindible. However, new player will feel frustrated if they have to face it, so it should be obvius that is not a requirement to kill it.
 
 A good Equilibrium example: DOOM (2016)
 [![DOOM (2016)](https://i1.wp.com/twincitiesgeek.com/wp-content/uploads/2016/05/DOOM-Beginning-Kill.gif?fit=500%2C282)](https://youtu.be/c8uBO8grqd8?t=15)
