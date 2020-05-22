@@ -44,7 +44,7 @@ Example on good vs bad cases:
 
 ---
 
-- **Comfort - Excite:** The user should feel safe, or comfortable. There are essentially too ways of achieving this: you either provide a safe, deathless environment or punish very little for losing. That being said, without any challenge or goal the player will feel soon disengaged. So on the other hand we have to provide exciment. A very effective way is to promise better experiences after the tutorial is completed _(If you learn to use this sword, I'll give it to you.)_. You can also provide content that is not yet necessary without explanation, so if players figure it out on their own they will feel good and have a small advantage. 
+- **Comfort - Excite:** The user should feel safe, or comfortable. There are essentially two ways of achieving this: you either provide a safe, deathless environment or punish very little for losing. That being said, without any challenge or goal the player will feel soon disengaged. So on the other hand we have to provide exciment. A very effective way is to promise better experiences after the tutorial is completed _(If you learn to use this sword, I'll give it to you.)_. You can also provide content that is not yet necessary without explanation, so if players figure it out on their own they will feel good and have a small advantage. 
 
 Again, this is about equilibrium. If we look at Dark Souls III, for example, has a side room in the tutorial area with a strong enemy which is really hard to take at early levels. However, hints exist on how to kill it, and for more experienced players this may suppose a challenge. If succesfull you will get an upgrade item, which is a good reward, but totally prescindible. However, new player will feel frustrated if they have to face it, so it should be obvius that is not a requirement to kill it.
 
@@ -97,5 +97,5 @@ Following common sense is there to prevent us from overexplaning implicit concep
 
 - [2016 GDC Europe talk, Nicolae Berbece](https://www.youtube.com/watch?v=VM1pV_6IE34)
 - [GDC 2014, Asher Vollmer](https://www.youtube.com/watch?v=Uf7xLHUpKHE)
-- [Half-Life 2's Invisible Tutorial | Teaching Players, Game Maker's Toolkit](https://www.youtube.com/watch?v=MMggqenxuZc)
+- [Half-Life 2's Invisible Tutorial: Teaching Players, Game Maker's Toolkit](https://www.youtube.com/watch?v=MMggqenxuZc)
 - [Gamasutra; Video Game Tutorials: How Do They Teach?, Nathan Hedges](https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorials_How_Do_They_Teach.php)
